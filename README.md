@@ -10,7 +10,7 @@ View Demo here [https://illustrious-tomatoes.surge.sh/](https://illustrious-toma
 
 This was estimated using the LightHouse extension available on Google Chrome browsers
 
-It gives a couple of metrics to show apps performance, SEO compliance, accessibility and more.
+It provides access a couple of metrics to show apps performance, SEO compliance, accessibility and more.
 
 The apps performance was improved using modular imports for the third party ui kits (ant design). Imports are restricted to only components that are to be used within the app thereby reducing the overall bundle size and app load time.
 
